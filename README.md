@@ -4,4 +4,4 @@ I have created a Disney Clone using React.js, Firebase, and Styled Components.
 ## Featuers
 - Login and logout capabilities.
 - Full responsiveness across devices.
-- Clickable movie boxes to view detailed information about each movie.
+- Clickable movie boxes to view detailed information about each movie.git 
