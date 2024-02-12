@@ -8,4 +8,4 @@ I have created a Disney Clone using React.js, Firebase, and Styled Components.
 
 
 ## Website Look:- 
-![video](Disney-video.mp4)
+![video](video.gif)
